@@ -21,10 +21,10 @@
 
 ```bash
 # Get latest prices
-curl https://raw.githubusercontent.com/jiang-shou/crypto-data-feed/main/data/latest.json
+curl https://raw.githubusercontent.com/jiangshou1201-sketch/crypto-data-feed/main/data/latest.json
 
 # Get today's price history
-curl https://raw.githubusercontent.com/jiang-shou/crypto-data-feed/main/data/prices_$(date +%Y-%m-%d).json
+curl https://raw.githubusercontent.com/jiangshou1201-sketch/crypto-data-feed/main/data/prices_$(date +%Y-%m-%d).json
 ```
 
 ## 📁 Data Format
